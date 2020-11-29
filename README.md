@@ -7,7 +7,7 @@ I study at the HSE, work at Vkontakte, develop projects and try to manage them.
 Skills: C/C++, Python, GoLang, KPHP
 
 - 🔭 I’m currently working on search at VK 
-- 👯 I’m looking to collaborate on open source 
+- 👯 I’m looking to collaborate to open source 
 - 🤔 I’m looking for help with some open source projects 
 - 💬 Ask me about anything 
 - 📫 How to reach me:
