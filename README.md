@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/timurvankov)  
+
 ### Hi there 👋, my name is Timur
 #### I'm a developer(and a bit of a Manager)
 I study at the HSE, work at Vkontakte, develop projects and try to manage them.
@@ -18,5 +20,3 @@ Skills: C/C++, Python, GoLang, KPHP
 ![GitHub metrics](https://metrics.lecoq.io/timurvankov)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=timurvankov)  
-
-![Profile views](https://gpvc.arturio.dev/timurvankov)  
