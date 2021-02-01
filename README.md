@@ -1,6 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/timurvankov) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=timurvankov)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=timurvankov)
+
+[Резюме](https://github.com/timurvankov/timurvankov/blob/main/CV_Vankov.pdf)
 
 ### Hi there 👋, my name is Timur
 #### I'm a developer(and a bit of a Manager)
@@ -18,4 +20,3 @@ Skills: C/C++, Python, GoLang, KPHP
 
 ![GitHub metrics](https://metrics.lecoq.io/timurvankov)
 
-![Резюме](https://github.com/timurvankov/timurvankov/blob/main/CV_Vankov.pdf)
