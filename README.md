@@ -18,3 +18,4 @@ Skills: C/C++, Python, GoLang, KPHP
 
 ![GitHub metrics](https://metrics.lecoq.io/timurvankov)
 
+![Резюме](https://github.com/timurvankov/timurvankov/blob/main/CV_Vankov.pdf)
