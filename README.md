@@ -12,7 +12,7 @@ Skills: C/C++, Python, GoLang, KPHP
 
 - 🔭 I’m currently working on search at VK 
 - 👯 I’m looking to collaborate to open source 
-- 🤔 I’m looking for help with some open source projects 
+- 🤔 I’m looking for help with my [handbook](#handbook)
 - 💬 Ask me about anything 
 - 📫 How to reach me:
 
@@ -20,3 +20,8 @@ Skills: C/C++, Python, GoLang, KPHP
 
 ![GitHub metrics](https://metrics.lecoq.io/timurvankov)
 
+
+## My Handbook <a name="handbook"></a>
+1. [Introduction](handbook/introduction.md)
+2. [Excel](handbook/excel)
+    1. [Tinkoff](handbook/excel/excel_tink.md)
