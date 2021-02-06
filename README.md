@@ -22,6 +22,15 @@ Skills: C/C++, Python, GoLang, KPHP
 
 
 ## My Handbook <a name="handbook"></a>
-1. [Introduction](handbook/introduction.md)
-2. [Excel](handbook/excel)
-    1. [Tinkoff](handbook/excel/excel_tink.md)
+
+1. [Введение](handbook/introduction.md)
+2. [Ексель](handbook/excel)
+    1. [Тинькофф](handbook/excel/excel_tink.md)
+3. [Паттерны разработки](handbook/patterns)
+4. [Распределенные системы](handbook/dist)
+5. [Языки программирования](handbook/languages)
+6. [Алгоритмы](handbook/algorithms)
+7. [Базы данных](handbook/databases)
+8. [Маркетинг](handbook/marketing)
+9. [Менеджемент](handbook/management)
+10. [Машинное обучение](handbook/mo)
