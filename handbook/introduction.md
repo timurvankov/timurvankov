@@ -13,3 +13,5 @@
 8. [Маркетинг](marketing)
 9. [Менеджемент](management)
 10. [Машинное обучение](mo)
+11. [Фин рынки](handbook/fin)
+    1. [Как заработать на акциях](handbook/fin/stocks_tink.md)

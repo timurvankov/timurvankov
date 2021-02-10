@@ -34,3 +34,5 @@ Skills: C/C++, Python, GoLang, KPHP
 8. [Маркетинг](handbook/marketing)
 9. [Менеджемент](handbook/management)
 10. [Машинное обучение](handbook/mo)
+11. [Фин рынки](handbook/fin)
+    1. [Как заработать на акциях](handbook/fin/stocks_tink.md)
